@@ -86,11 +86,12 @@ body {
 }
 
 .project a {
-   display: inline-block;
-   margin-top: 10px;
-   text-decoration: none;
-   color: #007bff;
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
 }
+
 .project a:hover {
     text-align: underline;
 }
